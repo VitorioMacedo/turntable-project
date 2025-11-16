@@ -102,12 +102,7 @@ Os endereços são mapeados automaticamente por `factory_tags.csv`.
 - medir_altura()  
 
 ### Máquina de Estados
-- IDLE  
-- LOADING  
-- POSICIONADO  
-- GIRANDO  
-- EJETANDO  
-- RETORNANDO  
+<img width="601" height="600" alt="image" src="https://github.com/VitorioMacedo/turntable-project/blob/66fad7fb0fce3e51fc5acb8e94f48366b1244c21/arquitetura.jpg" /> 
 
 ---
 
