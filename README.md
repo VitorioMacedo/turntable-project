@@ -80,6 +80,7 @@ Os endereços são mapeados automaticamente por `factory_tags.csv`.
 - O Python lê `factory_tags.csv` usando `carregar_mapa_factoryio()`.  
 - Endereços críticos são fixos no código (ex.: turntable e stack light).
 
+<img width="601" height="600" alt="image" src="https://github.com/VitorioMacedo/turntable-project/blob/98712f394471568ba6ed0d920c87d909e65c2e9a/atuadores.png" />
 ---
 
 ## Sobre o Controlador Modbus
