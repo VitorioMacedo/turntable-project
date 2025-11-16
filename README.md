@@ -71,6 +71,7 @@ Passos:
 - Pressionar RUN  
 
 Os endereços são mapeados automaticamente por `factory_tags.csv`.
+<img width="601" height="600" alt="image" src="https://github.com/VitorioMacedo/turntable-project/blob/8524fe26f261a746c82b23268e999cd397e7594c/Drive.png" />
 
 ---
 
