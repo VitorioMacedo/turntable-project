@@ -9,6 +9,7 @@ Sistema automatizado de classificação e separação de caixas para Factory I/O
 3. **Sistema Turntable** - Classifica e separa caixas por tamanho usando plataforma giratória
 4. **Controle de Esteiras** - Gerencia o fluxo de produção
 5. **Interface de Controle** - Botões START/STOP/ESTOP e Stack Light
+<img width="601" height="336" alt="image" src="https://github.com/user-attachments/assets/9407570d-7143-42ea-9653-3e9329f4cc5f" />   
 
 ## 🎮 Controle do Sistema
 
@@ -94,9 +95,7 @@ O turntable é o coração do sistema. Ele classifica caixas por tamanho e as di
 
 #### 3.1. Estados da Máquina
 
-```
-[INÍCIO] → IDLE → LOADING → POSICIONADO → GIRANDO → EJETANDO → RETORNANDO → IDLE
-```
+<img width="601" height="600" alt="image" src="https://github.com/VitorioMacedo/turntable-project/blob/66fad7fb0fce3e51fc5acb8e94f48366b1244c21/arquitetura.jpg" />
 
 ##### **Estado 1: IDLE** 🟢 Verde
 - **Descrição:** Sistema pronto, aguardando próxima caixa
@@ -370,7 +369,7 @@ O sistema possui controle inteligente de esteiras para evitar colisões e garant
 - **Host:** 127.0.0.1 (localhost)
 - **Porta:** 502
 - **Unit ID:** 1
-
+<img width="601" height="600" alt="image" src="https://github.com/VitorioMacedo/turntable-project/blob/8dd32d4aa1683a5cc9276664dae81f516af16a97/Drive.png" />
 ## 🎯 Lógica de Classificação
 
 | Tamanho da Caixa | Destino | Roll | Sensor de Saída |
